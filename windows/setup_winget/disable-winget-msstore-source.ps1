@@ -1,0 +1,1 @@
+winget source remove msstore
